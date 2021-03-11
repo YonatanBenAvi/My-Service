@@ -17,3 +17,12 @@ C:\Users\david\source\repos\MyNewService\MyNewService\obj\Debug\MyNewService.Pro
 C:\Users\david\source\repos\MyNewService\MyNewService\obj\Debug\MyNewService.csproj.GenerateResource.cache
 C:\Users\david\source\repos\MyNewService\MyNewService\obj\Debug\MyNewService.exe
 C:\Users\david\source\repos\MyNewService\MyNewService\obj\Debug\MyNewService.pdb
+C:\Users\david\source\repos\YonatanBenAvi\My Service\My-Service\MyNewService\bin\Debug\MyNewService.exe.config
+C:\Users\david\source\repos\YonatanBenAvi\My Service\My-Service\MyNewService\bin\Debug\MyNewService.exe
+C:\Users\david\source\repos\YonatanBenAvi\My Service\My-Service\MyNewService\bin\Debug\MyNewService.pdb
+C:\Users\david\source\repos\YonatanBenAvi\My Service\My-Service\MyNewService\obj\Debug\MyNewService.csprojAssemblyReference.cache
+C:\Users\david\source\repos\YonatanBenAvi\My Service\My-Service\MyNewService\obj\Debug\MyNewService.MyNewService.resources
+C:\Users\david\source\repos\YonatanBenAvi\My Service\My-Service\MyNewService\obj\Debug\MyNewService.ProjectInstaller.resources
+C:\Users\david\source\repos\YonatanBenAvi\My Service\My-Service\MyNewService\obj\Debug\MyNewService.csproj.GenerateResource.cache
+C:\Users\david\source\repos\YonatanBenAvi\My Service\My-Service\MyNewService\obj\Debug\MyNewService.exe
+C:\Users\david\source\repos\YonatanBenAvi\My Service\My-Service\MyNewService\obj\Debug\MyNewService.pdb
